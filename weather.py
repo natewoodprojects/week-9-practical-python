@@ -9,3 +9,8 @@ if temperature < 80 and forecast != "rain":
     print("Go outside!")
 else: 
     print("Stay inside!")
+
+if not forcast == "rain": 
+    print("Go outside!")
+else: 
+    print("Stay inside!")
